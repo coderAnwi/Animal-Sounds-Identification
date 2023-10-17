@@ -1,0 +1,29 @@
+body
+{
+    font-family: 'Rubik Moonrocks', cursive;
+    background-image: url(BG.gif);
+}
+
+.header_div 
+{
+    background-image: linear-gradient(to right, #cacd29, #d4b003, #d99300, #da7407, #d5541c, #d73d32, #d52346, #cd0059, #c7007a, #b5229b, #943dba, #5a52d3);
+    color: beige;
+
+
+}
+
+.header_div p{
+    font-family: 'Cherry Bomb One', cursive;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Cherry Bomb One', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
